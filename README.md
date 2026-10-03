@@ -1,13 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&width=800&height=60&lines=VARUN+C" alt="Name" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=A3A3A3&center=true&vCenter=true&multiline=false&width=800&height=40&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEER;SOFTWARE+%26+IOT+DEVELOPER;AI+%26+MACHINE+LEARNING+ENTHUSIAST" alt="Subtitle" />
-  
-  <p style="font-family: monospace; font-size: 14px;">
-    <b style="color: #22C55E;">&lt;/&gt;</b> 
-    <i style="color: #E5E5E5; letter-spacing: 1px;">TURNING RANDOM IDEAS INTO PRODUCTION CODE</i> 
-  </p>
-</div>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Developer Header" />
+</p>
 
 <br>
 
