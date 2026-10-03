@@ -178,8 +178,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunc-cyber&show_icons=true&bg_color=0a0a0a&title_color=22c55e&text_color=f3f4f6&icon_color=22c55e&border_color=22c55e&border_radius=8" width="48%" style="margin-right: 2%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunc-cyber&layout=compact&bg_color=0a0a0a&title_color=22c55e&text_color=f3f4f6&border_color=22c55e&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunc-cyber&show_icons=true&bg_color=0a0a0a&title_color=22c55e&text_color=f3f4f6&icon_color=22c55e&border_color=22c55e&border_radius=8" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunc-cyber&layout=compact&bg_color=0a0a0a&title_color=22c55e&text_color=f3f4f6&border_color=22c55e&border_radius=8" height="195" />
 </p>
 
 <p align="center">
