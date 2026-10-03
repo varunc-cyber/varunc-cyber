@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!;I'm+Varun+C+%F0%9F%91%8B;Electronics+%26+Communication+Engineering+Student+%F0%9F%8E%93;Software+%26+IoT+Developer+%F0%9F%92%BB;AI%2C+Machine+Learning+%26+IoT+Explorer+%F0%9F%A4%96;Building+ideas+into+real+projects+%E2%9A%A1"
+  <a href="https://github.com/varunc-cyber">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!;I'm+Varun+C+%F0%9F%91%8B;Electronics+%26+Communication+Engineering+Student+%F0%9F%8E%93;Software+%26+IoT+Developer+%F0%9F%92%BB;AI%2C+Machine+Learning+%26+IoT+Explorer+%F0%9F%A4%96;Building+ideas+into+real+projects+%E2%9A%A1"
       width="100%"
       style="max-width: 620px;"
       alt="Typing SVG"
@@ -13,28 +13,28 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/varun-chandramohan-a88163329">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-16A34A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  <a href="https://github.com/varunc-cyber">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=22C55E&labelColor=0a0a0a" alt="GitHub" />
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  <a href="mailto:varunc.cbe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-16A34A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=varunc-cyber&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.;Building+with+code.;Learning+every+day."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.;Building+with+code.;Learning+every+day."
     width="100%"
     style="max-width: 600px;"
     alt="Typing Quote"
@@ -51,13 +51,13 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Varun C</b>, a passionate
-  <b>Electronics and Communication Engineering student & developer</b>
-  based in India.<br />
+  Hey! I'm <b>Varun C</b>, a third-year 
+  <b>Electronics and Communication Engineering student</b>
+  at <b>KPR Institute of Engineering and Technology</b>.<br />
 
-  I am interested in <b>software development, AI/ML, IoT and web development</b>.
-  I enjoy building practical projects, solving DSA problems and continuously
-  learning new technologies.
+  I am interested in <b>software development, AI/ML, IoT and web technologies</b>.
+  I enjoy building practical projects that combine software, hardware, and intelligent systems,
+  particularly in the areas of IoT and AI.
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
   />
 
   <img
-    src="https://img.shields.io/badge/Degree-B.E.%20ECE-DC2626?style=flat-square"
+    src="https://img.shields.io/badge/Degree-B.E.%20ECE-16A34A?style=flat-square"
     alt="Degree"
   />
 
@@ -83,7 +83,7 @@
   <br />
 
   <b>Goal:</b>
-  <i>Build useful software and hardware solutions while continuously improving my problem-solving skills.</i>
+  <i>Grow into a skilled software developer by building meaningful projects and developing strong problem-solving abilities.</i>
 </p>
 
 <h2 align="center">Featured Projects</h2>
@@ -94,22 +94,24 @@
 
 <td width="50%" align="center" style="padding: 14px;">
 
-<h4>Smart Water Purifier</h4>
+<h4>Smart Portable Water Purifier</h4>
 
 <p>
-IoT-based portable water purification and monitoring system using
-ESP32, BLE, Flutter and Firebase.
+Smart automated IoT portable water purifier application using Flutter, ESP32 BLE and Firebase. Displays real-time sensor data such as pH, TDS, temperature, dissolved oxygen and Water Quality Index.
+<br><br>
+<a href="[EDIT HERE]">View Project</a>
 </p>
 
 </td>
 
 <td width="50%" align="center" style="padding: 14px;">
 
-<h4>Smart Gloves</h4>
+<h4>GestureX</h4>
 
 <p>
-Gesture detection system using MPU6050 and flex sensors for
-real-time hand movement recognition.
+A smart glove project using ESP-32 for gesture communication. Designed to improve communication for deaf and dumb people and support applications such as fall detection and gesture-based device control.
+<br><br>
+<a href="[EDIT HERE]">View Project</a>
 </p>
 
 </td>
@@ -120,22 +122,24 @@ real-time hand movement recognition.
 
 <td width="50%" align="center" style="padding: 14px;">
 
-<h4>AI / ML Projects</h4>
+<h4>Work @ Eaze HRMS – Reports Module</h4>
 
 <p>
-Exploring machine learning, computer vision and AI-based
-real-world applications.
+Designed and documented the Reports Module providing HR administrators with centralized access to employee and payroll reports, featuring UI/UX design, filtering, generation, dashboards, export functionality, and access control.
+<br><br>
+<a href="[EDIT HERE]">View Project</a>
 </p>
 
 </td>
 
 <td width="50%" align="center" style="padding: 14px;">
 
-<h4>DSA Journey</h4>
+<h4>Health Monitoring & Fatigue Detection Wearable</h4>
 
 <p>
-Currently strengthening problem-solving skills through
-Java, Data Structures and Algorithms.
+A real-time AI-powered health monitoring and fatigue detection wearable designed to detect potentially hazardous environments (SIH).
+<br><br>
+<a href="[EDIT HERE]">View Project</a>
 </p>
 
 </td>
@@ -152,7 +156,7 @@ Java, Data Structures and Algorithms.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css"
+    src="https://skillicons.dev/icons?i=java,c,cpp,python"
     width="100%"
     style="max-width: 420px;"
     alt="Programming Languages"
@@ -165,7 +169,7 @@ Java, Data Structures and Algorithms.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,flutter,androidstudio"
+    src="https://skillicons.dev/icons?i=html,css,js,react,flutter"
     width="100%"
     style="max-width: 380px;"
     alt="Frontend and Mobile"
@@ -178,7 +182,7 @@ Java, Data Structures and Algorithms.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"
+    src="https://skillicons.dev/icons?i=nodejs,firebase"
     width="100%"
     style="max-width: 420px;"
     alt="Backend and Database"
@@ -191,21 +195,48 @@ Java, Data Structures and Algorithms.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma"
+    src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,git,github,matlab,figma"
     width="100%"
     style="max-width: 420px;"
     alt="Tools and AI"
   />
 </p>
 
+<h2 align="center">Achievements</h2>
+
+<ul>
+  <li><b>IEEE SBC 2k25</b> - Third Place - IEEE PES SBC PROJECT PRESENTATION</li>
+  <li><b>STEM INNOVATORS</b> - First place - GestureX</li>
+  <li><b>BIT Hackathon</b> - Second place — Software innovation</li>
+  <li><b>IEEE - WIE</b> - project presentation - Second place - Nutriscan</li>
+  <li><b>Embrix Vegathon</b> - Selected as finalists from 1000+ teams to top 50 teams.</li>
+  <li><b>SindhanAI 2K25 national-level hackathon</b> - Top 5 among 57 IoT teams and Top 4 finalist.</li>
+</ul>
+
+<h2 align="center">Certifications</h2>
+
+<ul>
+  <li><b>ISRO-IIRS Online Course</b> – Remote Sensing and Digital Image Analysis</li>
+  <li><b>AI/ML Certification</b> – Wersel</li>
+  <li><b>NPTEL</b> - Introduction to Industry 4.0 and Industrial Internet of Things</li>
+  <li><b>NPTEL</b> - Blockchain and its Applications</li>
+</ul>
+
+<h2 align="center">Roles & Volunteering</h2>
+
+<ul>
+  <li><b>Joint Secretary</b> of SPARTRANZ - ECE Department</li>
+  <li><b>IEEE Event Coordinator</b> - Intelec</li>
+</ul>
+
 <h2 align="center">DSA & Coding</h2>
 
 <p align="center">
-  <i>Currently improving problem-solving and algorithmic thinking through DSA.</i>
+  <i>Currently learning and practicing Data Structures and Algorithms using Java.</i>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/_Varun_C/">
     <img
       src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a"
       alt="LeetCode"
@@ -218,14 +249,14 @@ Java, Data Structures and Algorithms.
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api?username=varunc-cyber&show_icons=true&bg_color=0a0a0a&title_color=22c55e&text_color=f3f4f6&icon_color=22c55e&border_color=22c55e&border_radius=8"
     width="100%"
     style="max-width: 440px;"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunc-cyber&layout=compact&bg_color=0a0a0a&title_color=22c55e&text_color=f3f4f6&border_color=22c55e&border_radius=8"
     width="100%"
     style="max-width: 350px;"
     alt="Top Languages"
@@ -235,7 +266,7 @@ Java, Data Structures and Algorithms.
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varunc-cyber&theme=dark&hide_border=false&border=22c55e&background=0a0a0a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22c55e&sideLabels=22c55e&dates=999999"
     width="100%"
     style="max-width: 480px;"
     alt="GitHub Streak"
@@ -263,7 +294,7 @@ Java, Data Structures and Algorithms.
 
 <p align="center">
 
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/varun-chandramohan-a88163329">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       width="50"
@@ -272,7 +303,7 @@ Java, Data Structures and Algorithms.
     />
   </a>
 
-  <a href="https://github.com/">
+  <a href="https://github.com/varunc-cyber">
     <img
       src="https://skillicons.dev/icons?i=github"
       width="50"
@@ -281,7 +312,7 @@ Java, Data Structures and Algorithms.
     />
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:varunc.cbe@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       width="50"
