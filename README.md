@@ -96,7 +96,7 @@
       <div style="margin-top: 15px;">
         <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/LIVE%20DEMO-VISIT%20PROJECT-16A34A?style=for-the-badge" alt="Live Demo" /></a>
         &nbsp;
-        <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=22C55E" alt="Source Code" /></a>
+        <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20GITHUB-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Source Code" /></a>
       </div>
     </td>
   </tr>
@@ -112,7 +112,7 @@
       <div style="margin-top: 15px;">
         <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/LIVE%20DEMO-VISIT%20PROJECT-16A34A?style=for-the-badge" alt="Live Demo" /></a>
         &nbsp;
-        <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=22C55E" alt="Source Code" /></a>
+        <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20GITHUB-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Source Code" /></a>
       </div>
     </td>
   </tr>
@@ -128,7 +128,7 @@
       <div style="margin-top: 15px;">
         <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/LIVE%20DEMO-VISIT%20PROJECT-16A34A?style=for-the-badge" alt="Live Demo" /></a>
         &nbsp;
-        <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=22C55E" alt="Source Code" /></a>
+        <a href="[EDIT HERE]"><img src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20GITHUB-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Source Code" /></a>
       </div>
     </td>
   </tr>
