@@ -1,40 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="auto">
   <defs>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="6" />
+    <filter id="blur-lg" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
+    </filter>
+    <filter id="blur-sm" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" />
     </filter>
     
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.04" />
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.02" />
     </pattern>
   </defs>
 
   <!-- Background -->
   <rect width="800" height="250" fill="#0a0a0a" rx="10" />
-  <rect width="798" height="248" x="1" y="1" rx="10" stroke="#22C55E" stroke-width="1" fill="none" opacity="0.3"/>
+  <rect width="798" height="248" x="1" y="1" rx="10" stroke="#22C55E" stroke-width="1" fill="none" opacity="0.2"/>
   <rect width="800" height="250" fill="url(#grid)" rx="10" />
 
   <!-- Corners -->
-  <path d="M 25 45 L 25 25 L 45 25" stroke="#22C55E" stroke-width="3" fill="none" />
-  <path d="M 755 25 L 775 25 L 775 45" stroke="#22C55E" stroke-width="3" fill="none" />
-  <path d="M 25 205 L 25 225 L 45 225" stroke="#22C55E" stroke-width="3" fill="none" />
-  <path d="M 755 225 L 775 225 L 775 205" stroke="#22C55E" stroke-width="3" fill="none" />
+  <path d="M 25 55 L 25 25 L 55 25" stroke="#22C55E" stroke-width="3" fill="none" />
+  <path d="M 775 55 L 775 25 L 745 25" stroke="#22C55E" stroke-width="3" fill="none" />
+  <path d="M 25 195 L 25 225 L 55 225" stroke="#22C55E" stroke-width="3" fill="none" />
+  <path d="M 775 195 L 775 225 L 745 225" stroke="#22C55E" stroke-width="3" fill="none" />
   
   <!-- Top Pill -->
-  <rect x="290" y="25" width="220" height="26" rx="13" stroke="#22C55E" stroke-width="1" fill="#111111" />
-  <circle cx="308" cy="38" r="4" fill="#22C55E" />
-  <text x="325" y="42" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#22C55E" letter-spacing="1" text-anchor="start">BUILDING REAL-WORLD TECH</text>
+  <rect x="280" y="25" width="240" height="26" rx="13" stroke="#22C55E" stroke-width="1" fill="#111111" />
+  <g transform="translate(400, 38)">
+    <circle cx="-95" cy="0" r="4" fill="#22C55E" />
+    <text x="-80" y="4" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#22C55E" letter-spacing="1" text-anchor="start">BUILDING REAL-WORLD TECH</text>
+  </g>
   
   <!-- Name (Glow + Text) -->
-  <text x="400" y="125" font-family="'Arial Black', Impact, sans-serif" font-size="64" font-weight="900" fill="#22C55E" text-anchor="middle" filter="url(#blur)" stroke="#22C55E" stroke-width="4">VARUN C</text>
+  <text x="400" y="125" font-family="'Arial Black', Impact, sans-serif" font-size="64" font-weight="900" fill="#22C55E" text-anchor="middle" filter="url(#blur-lg)">VARUN C</text>
+  <text x="400" y="125" font-family="'Arial Black', Impact, sans-serif" font-size="64" font-weight="900" fill="#22C55E" text-anchor="middle" filter="url(#blur-sm)">VARUN C</text>
   <text x="400" y="125" font-family="'Arial Black', Impact, sans-serif" font-size="64" font-weight="900" fill="#ffffff" text-anchor="middle">VARUN C</text>
   
   <!-- Subtitle -->
-  <text x="400" y="165" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#22C55E" letter-spacing="2" text-anchor="middle">ECE STUDENT • SOFTWARE &amp; IOT DEV • AI ENTHUSIAST</text>
+  <text x="400" y="165" font-family="'Courier New', Courier, monospace" font-size="13" fill="#22C55E" letter-spacing="2" text-anchor="middle">ECE STUDENT • SOFTWARE &amp; IOT DEV • AI ENTHUSIAST</text>
   
   <!-- Separator Diamond -->
   <rect x="396" y="185" width="8" height="8" fill="#22C55E" transform="rotate(45 400 189)" />
   
   <!-- Quote -->
-  <text x="400" y="225" font-family="'Courier New', Courier, monospace" font-size="14" fill="#a3a3a3" text-anchor="middle" letter-spacing="1"><tspan fill="#22C55E" font-weight="bold">&lt;/&gt;</tspan> TURNING RANDOM IDEAS INTO PRODUCTION CODE</text>
+  <text x="400" y="225" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a3a3a3" text-anchor="middle" letter-spacing="1"><tspan fill="#22C55E" font-weight="bold">&lt;/&gt;</tspan> TURNING RANDOM IDEAS INTO PRODUCTION CODE</text>
 </svg>
