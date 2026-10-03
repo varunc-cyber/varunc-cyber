@@ -58,7 +58,7 @@
   ⚡ <b>Philosophy:</b> <i>"I love turning complex problems into efficient, elegant solutions!"</i>
 </p>
 
-<table width="100%" align="center">
+<table width="85%" align="center">
   <tr>
     <td width="50%" align="center" style="padding: 15px; border: 1px solid #333; border-radius: 8px;">
       <b>🚀 Flagship Project</b><br><br>
@@ -89,7 +89,7 @@
 
 <h2 align="center">🟢 Featured Project Spotlight</h2>
 
-<table width="100%" align="center" style="border: 1px solid #22C55E; border-radius: 8px; margin-bottom: 20px;">
+<table width="85%" align="center" style="border: 1px solid #22C55E; border-radius: 8px; margin-bottom: 20px;">
   <tr>
     <td align="center" style="padding: 25px;">
       <h3 style="margin-top: 0; color: #22C55E;">GestureX - Smart Sign Language Detection</h3>
@@ -105,7 +105,7 @@
   </tr>
 </table>
 
-<table width="100%" align="center" style="border: 1px solid #22C55E; border-radius: 8px; margin-bottom: 20px;">
+<table width="85%" align="center" style="border: 1px solid #22C55E; border-radius: 8px; margin-bottom: 20px;">
   <tr>
     <td align="center" style="padding: 25px;">
       <h3 style="margin-top: 0; color: #22C55E;">Work @ Eaze HRMS – Reports Module</h3>
@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-<table width="100%" align="center" style="border: 1px solid #22C55E; border-radius: 8px;">
+<table width="85%" align="center" style="border: 1px solid #22C55E; border-radius: 8px;">
   <tr>
     <td align="center" style="padding: 25px;">
       <h3 style="margin-top: 0; color: #22C55E;">Health Monitoring & Fatigue Detection Wearable</h3>
@@ -141,7 +141,7 @@
 
 <h2 align="center">🏆 Achievements & Certifications</h2>
 
-<table width="100%" align="center">
+<table width="85%" align="center">
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <h4 style="color: #22C55E; margin-bottom: 5px;">🏅 Hackathons & Competitions</h4>
@@ -173,7 +173,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/_Varun_C/">
-    <img src="https://leetcard.jacoblin.cool/_Varun_C?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" style="max-width: 100%; border-radius: 8px;" />
+    <img src="https://leetcard.jacoblin.cool/_Varun_C?theme=dark&font=Fira%20Code" alt="LeetCode Stats" style="max-width: 100%; border-radius: 8px;" />
   </a>
 </p>
 
@@ -233,7 +233,7 @@
   <i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i>
 </p>
 
-<table width="100%" align="center" style="border: 1px solid #333; border-radius: 8px;">
+<table width="85%" align="center" style="border: 1px solid #333; border-radius: 8px;">
   <tr>
     <td width="33%" align="center" style="padding: 25px;">
       <img src="https://skillicons.dev/icons?i=linkedin" width="60" /><br><br>
