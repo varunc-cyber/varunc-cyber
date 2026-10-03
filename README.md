@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-16A34A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   <a href="https://github.com/varunc-cyber">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=22C55E&labelColor=0a0a0a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
@@ -238,7 +238,7 @@
     <td width="33%" align="center" style="padding: 25px; border-left: 1px solid #333; border-right: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=github" width="60" /><br><br>
       <a href="https://github.com/varunc-cyber">
-        <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logoColor=22C55E" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GITHUB-FOLLOW-16A34A?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
       </a><br><br>
       <span style="font-size: 12px; color: #a3a3a3;">Open Source Work</span>
     </td>
